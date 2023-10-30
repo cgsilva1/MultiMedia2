@@ -1,4 +1,4 @@
-# MultiMedia2
+# MultiMedia2: Color Representation & Spaces
 This program will enforce a practical understanding of color representations, color spaces and data structures normally used in color analysis. 
 
 The program will take a few parameters.
